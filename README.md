@@ -1,2 +1,2 @@
 # hello-local
-Exemplo de criação de repositório local
+Alteração de arquivo README.md para realizar um commit.
