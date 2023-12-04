@@ -4,3 +4,4 @@ Mais outra alteração para visualizar.
 Alteracao local.
 Alteracao da nova branch.
 Alteracao apos criar a branch local.
+
